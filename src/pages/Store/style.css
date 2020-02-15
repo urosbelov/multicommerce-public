@@ -1,0 +1,13 @@
+.store__tab-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.store__tab-list-products {
+  display: flex;
+}
+
+.store__list-card{
+  flex: 1;
+}
+

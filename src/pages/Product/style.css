@@ -1,0 +1,11 @@
+.ant-carousel .slick-slide {
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.ant-skeleton-paragraph {
+  margin: 0;
+}
