@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.26.6",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^0.6.1",
     "fslightbox-react": "^1.4.7",
